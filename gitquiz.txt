@@ -1,0 +1,16 @@
+Once you come to class,
+1. You take a seat
+2. Switch on computer
+3. Clone; (git clone --config="http.proxy=http://warit2187:safari2001@192.168.2.1:8080" https://github.com/shop2187-cmis/shop2187-cmis-wd.git)
+4. Get into your folder by typing in - (cd shop2187-cmis-wd) 
+5. Once you get into your folder, type in (gedit file.txt) 
+6. Add info to your documents/file. 
+7. Once you have added info, press save and exit the document.
+8. Go to terminal and type in (git add file.txt)
+9. Then type in (git commit -m "Created file.txt")
+10. Once you have done that, type in (git push)
+11. Put in your credentials for github.com
+12. You are finished! (check on github.com)
+13. Shut down your computer
+14. Get up from your chair
+15. Leave
