@@ -6,3 +6,8 @@ cd ..: Go up
 cat <file name>: View the contents of a file
 gedit <file name> &
 python -m SimpleHTTPServer - Start the development server
+
+sftp shop2187@cmis-hsteacher
+cd public_html/
+pwd
+put quiz.html
