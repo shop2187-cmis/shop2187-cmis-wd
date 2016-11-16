@@ -1,19 +1,14 @@
-<!doctype html>
-<html>
-	<head>
-		<title>
-			Title Text
-		</title>
-		<meta charset="utf-8"/>
-		<link rel="stylesheet" href="main.css" type="text/css">
-	</head>
-	<body>
-		<h1>
-			A heading
-		</h1>
-		<p>
-			Paragraph text.
-		</p>
-	</body>
-</html>
+html {
+	background-color: lightblue;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+}
+
+p {
+	font-family: verdana;
+	font-size: 28px;
+}
 
