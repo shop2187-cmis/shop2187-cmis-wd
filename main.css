@@ -1,14 +1,31 @@
 html {
-	background-color: lightblue;
+	background-color: navy;
 }
-
 h1 {
+	background-color: black;	
 	color: white;
 	text-align: center;
+	font-size: 48px;
+	border-style: solid;
+	font-family: serif;
 }
-
+h2 { 
+	background-color: orchid;
+	font-size: 36px;
+	border-style: dotted;	
+	border-color: yellow;
+	border-width: 3px;
+	font-style: italic;
+	font-family: monospace
+	 
+}
 p {
-	font-family: verdana;
-	font-size: 28px;
+	margin: 2cm;	
+	font-family: monospace;
+	font-size: 24px;
+	color: white;
+	border-style: dashed;
+	border-color: maroon;
+	
 }
 
