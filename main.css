@@ -1,7 +1,4 @@
-<!doctype css>
-<css>
-	<head>
-		<!--*Create a new file called "main.css"
+		/*Create a new file called "main.css"
 		*Add a link element to the head of your index.html file
 		<link rel="stylesheet" href="main.css" type="text/css">
 		*Edit the main.css file
@@ -17,8 +14,8 @@
 		*Validate your main.css file.
 		*Copy this list of requirements and paste it into the top of your "main.css" file as a css comment. Put an asterisk in front of each one that you did.
 		*Upload to the production server with sftp.
-		*View your index.html in the production server. -->
-	</head>
+		*View your index.html in the production server*/
+
 html {
 	background-color: navy;
 }
