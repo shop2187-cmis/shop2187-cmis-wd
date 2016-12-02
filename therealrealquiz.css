@@ -1,6 +1,36 @@
 html {
-	background-color: red;
+	background-color:red;
 }
 h1 {
+	color:yellow;
+	font-weight:bold;
 	text-align: center;
-	
+	min-height: 5cm;
+}
+h2 {
+	font-size: 24px;
+	color: black;
+	padding: 5px;
+}
+header {
+	background-color:blue;
+}
+nav {
+	color: yellow;
+	text-decoration:line-through;
+}
+p {
+	text-decoration:underline;
+}
+ol {
+	border:dotted black;
+}
+ul {
+	text-decoration:line-through;
+}
+footer {
+	color:white;
+	background-color:blue;
+
+}
+
