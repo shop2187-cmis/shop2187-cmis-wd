@@ -1,3 +1,7 @@
+Properties used: 1.background-color 2.color 3.text-align 4.font-size 5.border-style 6.font-family 7.font-style 8.border-color 9.border-wdith 10.max-width 11.max-height 12.opacity 13.margin 14.background 15.text-shadow 16.padding 17.min-height 18.min-width 19.direction 20.transform
+
+Things Ive Learnt : From Bill to use padding and from Pat to used border-style		
+
 		/*Create a new file called "main.css"
 		*Add a link element to the head of your index.html file
 		<link rel="stylesheet" href="main.css" type="text/css">
@@ -81,7 +85,3 @@ footer {
 	border-color: red;
 	font-family: serif;
 } 
-
-Properties used: 1.background-color 2.color 3.text-align 4.font-size 5.border-style 6.font-family 7.font-style 8.border-color 9.border-wdith 10.max-width 11.max-height 12.opacity 13.margin 14.background 15.text-shadow 16.padding 17.min-height 18.min-width 19.direction 20.transform
-
-Things Ive Learnt : From Bill to use padding and from Pat to used border-style
