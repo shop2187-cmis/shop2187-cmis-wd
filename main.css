@@ -85,3 +85,20 @@ footer {
 	border-color: red;
 	font-family: serif;
 } 
+ul {
+	color: green;
+	border: solid;
+	border-color: yellow;
+	margin: 0.5cm;
+	padding: 2px;
+	width: 8cm;
+	height: 3cm;
+	font: 24px;
+}
+ol {
+	color: red;
+	border: dashed;
+	width: 8cm;
+	margin: 0.5cm;
+	padding: 100px;
+}
