@@ -23,7 +23,7 @@ Things Ive Learnt : From Bill to use padding and from Pat to used border-style
 html {
 	background-color: navy;
 }
-h1 {
+h1, h2 {
 	background-color: black;	
 	color: white;
 	text-align: center;
@@ -85,7 +85,7 @@ footer {
 	border-color: red;
 	font-family: serif;
 } 
-ul {
+ul ol {
 	color: green;
 	border: solid;
 	border-color: yellow;
