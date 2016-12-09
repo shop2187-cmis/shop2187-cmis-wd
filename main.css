@@ -85,7 +85,7 @@ footer {
 	border-color: red;
 	font-family: serif;
 } 
-ul ol {
+ul, ol {
 	color: green;
 	border: solid;
 	border-color: yellow;
