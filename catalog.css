@@ -1,5 +1,5 @@
-	html{
-	background-image:url(http://wallpapercave.com/wp/0zJgItY.jpg);
+html{
+	background-image:url(http://wallpapercave.com/wp/lf6n9hT.png);
 }
 header{
 	margin-top:-9px;
@@ -16,19 +16,22 @@ header nav{
 }
 h1{
 	font-size:50px;
-	text-decoration:underline;
+	text-decoration:overline underline;
+	
 }
 h1, h2{
 	font-weight:bold;
+	color: white;
 }
 article{
-	background-color:black;
+	background-color:#000000;
 	color:white;
 	text-align:center;
 	margin-right:3.5in;
 	margin-left:3.5in;
-	border:2px solid white;
+	border:2px solid maroon;
 	padding:.5in;
+	color: brown;
 }
 h2{
 	font-size:30px;
@@ -37,7 +40,7 @@ ul{
 	font-size:20px
 }
 article p{
-	font-size:15px;
+	font-size:20px;
 	padding:0px;
 	margin-bottom:10px;
 	margin-right:0px;
@@ -45,14 +48,14 @@ article p{
 	border:0px;
 }
 p{
-	color:white;	
+	color: bisque;	
 	text-align:center;
 	padding:2in;
 	font-size:50px;
 	background-color:black;
 	margin-right:3.5in;
 	margin-left:3.5in;
-	border:2px solid white;
+	border:2px solid black;
 }
 footer{
 	text-align:center;
@@ -65,5 +68,5 @@ footer{
 }
 img{
 	margin-top:10px;
-	border:10px solid white;
+	border:10px solid dimgrey;
 }	
