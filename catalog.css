@@ -70,3 +70,16 @@ img{
 	margin-top:10px;
 	border:10px solid dimgrey;
 }	
+table{
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
+    width: 50%;
+	background-color: darkgrey;
+	
+}
+td, th {
+    border: 1px solid black;
+    text-align: left;
+    padding: 8px;
+
+}
